@@ -1,0 +1,23 @@
+body {
+    background-image: url("image/Banner2.jpg");
+    background-size: cover;
+    background-position: center  px;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p, a {
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+a {
+    color: #ffcc00;
+}
