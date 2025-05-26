@@ -1,0 +1,250 @@
+St. Michael the Archangel
+    St. Francis of Assisi
+    St. Catherine of Siena
+    St. Joseph
+    St. Valentine
+    St. Christopher
+    St. Patrick
+    St. Jude Thaddaeus
+    St. Teresa of Avila
+    St. Anthony of Padua
+    St. Felix of Spoleto
+    St. Victor and Corona
+    St. Lucy
+    St. Monica
+    St. Therese of Lisieux
+    St. Sebastian
+    St. Philomena
+    St. Agnes
+    St. Dymphna
+    St. Rita
+    Mary the Blessed Virgin
+    St. Kateri Tekakwitha
+    St. Joan of Arc
+    St. Clare of Assisi
+    St. Bernadette
+    St. Maria Goretti
+    St. Rose of Lima
+    St. Agatha
+    St. Padre Pio
+    St. Augustine of Hippo
+    St. Maximilian Kolbe
+    St. Teresa of Calcutta
+    St. Raphael
+    St. Elizabeth of Hungary
+    St. Peter
+    St. Paul
+    St. Elizabeth Ann Seton
+    St. Martin de Porres
+    St. Catherine of Alexandria
+    St. Faustina Kowalska
+    St. Gabriel, the Archangel
+    St. Elizabeth
+    St. Mary Magdalene
+    St. Brigid of Ireland
+    St. Andrew the Apostle
+    St. Gerard Majella
+    St. Abigail
+    St. George
+    St. Joseph of Cupertino
+    St. Thomas Aquinas
+    St. Dominic
+    St. Benedict
+    St. Gemma Galgani
+    St. Blaise
+    St. Luke
+    St. Katharine Drexel
+    St. Gianna Beretta Molla
+    St. John Bosco
+    St. Pope John Paul II
+    St. Matthew
+    St. John the Apostle
+    St. Thomas
+    St. Vincent de Paul
+    Sts. Perpetua and Felicity
+    St. Catherine of Bologna
+    St. Martha
+    St. James the Greater
+    St. Jerome
+    St. Francis de Sales
+    Our Lady of Guadalupe
+    St. Thomas More
+    St. Barbara
+    St. Helena
+    St. Francis Xavier
+    St. Josephine Bakhita
+    St. Stephen
+    St. Leo the Great
+    St. John the Baptist
+    St. Margaret of Scotland
+    St. Juan Diego
+    St. Dominic Savio
+    St. Nicholas
+    St. Angela Merici
+    St. Lorenzo Ruiz
+    St. Philip Neri
+    St. Ambrose
+    St. Mark
+    St. Veronica
+    St. Genevieve
+    Pope Saint Gregory the Great
+    St. Anastasia
+    St. Charles Borromeo
+    St. Ignatius Loyola
+    St. Martin of Tours
+    St. John Vianney
+    St. John of the Cross
+    St. Margaret Mary Alacoque
+    St. Frances Xavier Cabrini
+    St. Albert the Great
+    St. Rosalia
+    St. Damien of Molokai
+    St. Gertrude the Great
+    St. Emma
+    St. Roch
+    St. Bridget of Sweden
+    Sts. Joachim and Anne
+    St. Bernard of Clairvaux
+    St. Catherine Laboure
+    St. Henry
+    St. Ava
+    St. Scholastica
+    St. Anne
+    St. Julia
+    St. Lawrence, Deacon and Martyr
+    Bl. Miguel Pro
+    St. John of God
+    St. Zita
+    St. Christina
+    St. Peregrine Laziosi
+    St. Adelaide
+    St. Colette
+    St. Victoria
+    St. James the Lesser
+    St. Frances of Rome
+    St. Athanasius
+    St. Mary MacKillop
+    St. Bernardine of Siena
+    St. Vincent Ferrer
+    St. Sofia
+    St. Raymond Nonnatus
+    St. Elizabeth of Portugal
+    St. Peter Claver
+    St. Isidore of Seville
+    St. Bernadette Soubirous
+    St. Longinus
+    St. Germaine Cousin
+    St. Bonaventure
+    St. Bartholomew
+    St. Anthony the Abbot
+    The Apostles
+    St. Edith Stein
+    St. Expeditus
+    St. Matthias
+    St. Vitus
+    St. Pedro Calungsod
+    St. John Neumann
+    St. Aloysius Gonzaga
+    St. Emily de Vialar
+    St. Charles Lwanga and Companions
+    St. Jane Frances de Chantal
+    St. Rose Philippine Duchesne
+    St. Benjamin
+    St. Aaron
+    St. Adrian
+    St. Edward the Confessor
+    St. Isabel of France
+    St. Anne
+    St. Louis IX
+    St. Adele
+    St. Matilda
+    St. Flora
+    St. Andre Bessette
+    St. Genesius
+    St. Carmen
+    St. Apollonia
+    St. Simon
+    St. Florian
+    St. Paul Miki
+    Sts. Cosmas & Damian
+    St. Charbel
+    St. Jessica
+    St. Kiara
+    St. Rose Venerini
+    St. Daniel
+    St. Margaret of Cortona
+    St. Louise de Marillac
+    St. Dismas
+    St. Dorothy
+    St. Barnabas
+    St. Camilla
+    St. Margaret Clitherow
+    Sts. Denis, Rusticus, and Eleutherius
+    St. Robert Bellarmine
+    St. Basil the Great
+    St. Ignatius of Antioch
+    St. Pius X
+    St. David
+    St. Faith
+    St. Lea
+    St. Hedwig
+    St. Alice
+    St. Alena
+    St. Edmund the Martyr
+    St. Patricia
+    St. Rafqa
+    St. Alphonsus Marie Liguori
+    St. Bibiana
+    St. Raymond of Pennafort
+    St. Hubert
+    St. Alexander of Jerusalem
+    St. Camillus de Lellis
+    St. Jerome Emiliani
+    St. Simon Stock
+    St. Polycarp
+    St. Junipero Serra
+    St. Marie Amandine
+    St. Constantine the Great
+    St. Julie Billiart
+    St. Hilary of Poitiers
+    St. Marianne Cope
+    St. Rita of Cascia
+    St. Seraphina
+    St. Ada
+    St. Susanna
+    St. Bruno
+    St. Kevin
+    St. John of Capistrano
+    St. John Baptist de la Salle
+    St. Margaret of Antioch
+    St. Callistus I
+    St. Catherine of Sweden
+    St. Francis of Paola
+    St. Ursula
+    St. Laura
+    St. Ethelreda (Audrey)
+    St. Timothy
+    St. Pelagia
+    St. Joanna
+    St. Adelina
+    St. Elizabeth Rose
+    St. John Chrysostom
+    St. Celine
+    Bl. Adeline
+    St. Paul of the Cross
+    St. Philip
+    St. Josaphat of Polotsk
+    St. Jacinta Marto
+    St. Drogo
+    St. John XXIII
+    St. Lydia Purpuraria
+    St. Casimir
+    St. Fabian
+    St. Anselm
+    St. Catherine de Ricci
+    St. Cornelius
+    St. Mary Di Rosa
+    Bl. Diana
+    St. John Berchmans
+    St. Isidore, the Farmer
+    St. Finbar

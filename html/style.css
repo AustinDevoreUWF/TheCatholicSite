@@ -1,6 +1,6 @@
-body {
-    background-color: black;
-    background-image: url("image/Banner2.jpg");
+ body {
+    background-color: #55423d;
+    /* background-image: url("image/Banner2.jpg"); */
     background-size: cover;
     background-position: center  200px;
     background-repeat: no-repeat;
@@ -24,6 +24,6 @@ p, a {
     width: fit-content;
 }
 
-a {
+ a {
     color: #ffcc00;
 }
